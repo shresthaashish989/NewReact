@@ -1,10 +1,9 @@
 import React from 'react'
 
-const First = (props) => {
+const First = () => {
   return (
-    <div>
-      <h1>{props.head}</h1>
-    </div>
+   <>
+   </>
   )
 }
 

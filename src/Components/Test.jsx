@@ -1,19 +1,11 @@
 import React from 'react'
 
-export const Test = (props) => {
+const Test = () => {
   return (
-    <>
-    <h1>{props.head}</h1>
-    </>
+    <div>
+      
+    </div>
   )
 }
 
-export const Demo=(props)=>{
-    return(
-        <>
-
-        <h1>{props.head}</h1>
-        
-        </>
-    )
-}
+export default Test
